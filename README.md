@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohamed hafid</h1>
 <h3 align="center">🌟 Aspiring Full Stack Developer | Crafting Innovative Solutions | Passionate about Code and Collaboration</h3>
-<img width="100%" height="70vh" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
+<img width="100%" height="100vh" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshafid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshafid" /> </p>
 
