@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm mohamed hafid</h1>
 <h3 align="center">🌟 Aspiring Full Stack Developer | Crafting Innovative Solutions | Passionate about Code and Collaboration</h3>
-<img width="100%" height="350vh" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
+<img width="100%" height="370vh" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedshafid&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedshafid" /> </p>
 
