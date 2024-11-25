@@ -2,6 +2,7 @@
 <h3 align="center">🌟 Aspiring Full Stack Developer | Crafting Innovative Solutions | Passionate about Code and Collaboration</h3>
 <!-- <img width="100%" height="370vh" src="https://img.freepik.com/premium-photo/computer-screen-with-word-it_999671-64302.jpg"> -->
 <a href="https://app.daily.dev/mohamedhafid825"><img src="https://api.daily.dev/devcards/v2/XlsZSP7Nd5ZvOsagutxdC.png?r=n4b&type=default" width="356" alt="mohamed hafid's Dev Card"/></a>
+<br>
 - 💬 Ask me about **react,express,mongodb,deployment**
 
 - 📫 How to reach me **mohamedhafid825@gmail.com**
