@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="H:\working\Github Banner.png" width="350" title="hover text">
-</p>
+![Profile Banner](https://github.com/mohamedshafid/mohamedshafid/blob/main/Github%20Banner.png)
