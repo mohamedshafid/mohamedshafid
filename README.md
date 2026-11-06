@@ -1,18 +1,118 @@
-# 💫 About Me:
-<br>I'm a passionate developer who loves exploring new technologies, learning continuously, and turning ideas into real-world solutions. I'm always curious about how things work under the hood and enjoy diving deep into the core concepts behind the technologies I use.<br><br>I believe in learning by doing — exploring new tools, experimenting with ideas, and implementing what I learn in real-time projects. I'm driven by curiosity, problem-solving, and the desire to continuously improve my skills while building meaningful and impactful solutions.<br><br>Always curious. Always learning. Always building. 🚀
+<div align="center">
 
+Hey, I'm Mohamed Hafid 👋
+Software Engineer | Full-Stack Developer | Tech Enthusiast
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohd_haf1d_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamedhafid) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thep1ayy3r) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/mohameds_hafid) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/thep1ayy3r) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohamedhafid825@gmail.com) 
+Curious mind. Continuous learner. Passionate builder.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=mohamedshafid&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=mohamedshafid&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedshafid&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github) ![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
 
----
-[![](https://komarev.com/ghpvc/?username=mohamedshafid&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+💫 About Me
+
+I'm a passionate developer driven by curiosity and a constant desire to learn, experiment, and build.
+
+I enjoy exploring new technologies, understanding what's happening behind the scenes, and digging deeper into the core concepts rather than simply learning how to use a tool.
+
+For me, development isn't just about writing code — it's about understanding problems, exploring different approaches, and turning ideas into practical solutions.
+
+I strongly believe in learning by building. Whenever I discover something new, I love experimenting with it and implementing it in real-world scenarios.
+
+🔍 Curious about how things work under the hood.
+🧠 Interested in understanding core concepts and engineering fundamentals.
+⚡ Love exploring new technologies and putting them into practice.
+🌱 Always learning, experimenting, and improving.
+🎯 Focused on becoming a well-rounded engineer who understands technology beyond the surface.
+
+<div align="center">
+
+Always curious. Always learning. Always building. 🚀
+
+</div>
+
+🛠️ Tech Stack
+💻 Languages
+
+<div align="center">
+
+!JavaScript !TypeScript !Python !Java !C !C++
+
+</div>
+
+🎨 Frontend Development
+
+<div align="center">
+
+!React !Next.js !HTML5 !CSS3 !Tailwind CSS !Bootstrap !Vite !GSAP
+
+</div>
+
+⚙️ Backend & Database
+
+<div align="center">
+
+!Node.js !Express.js !MongoDB !PostgreSQL !MySQL !Prisma !Firebase !JWT
+
+</div>
+
+☁️ Cloud & DevOps
+
+<div align="center">
+
+!AWS !Docker !Kubernetes !Jenkins !Linux !Nginx !GitHub Actions
+
+</div>
+
+🔧 Tools & Platforms
+
+<div align="center">
+
+!Git !GitHub !Postman !Figma ![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) !IntelliJ IDEA !Notion
+
+</div>
+
+🧭 Currently Exploring
+
+<div align="center">
+
+Area	Interests
+🏗️ Software Engineering	System Design, Architecture, Scalability
+⚙️ Backend Engineering	Performance, APIs, Database Internals
+☁️ Cloud & DevOps	AWS, Docker, Kubernetes, CI/CD
+🔐 Cybersecurity	Web Security, Networking, OWASP
+🧠 Computer Science	Data Structures, Algorithms, Core Fundamentals
+
+</div>
+
+🌐 Let's Connect
+
+<div align="center">
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+</div>
+
+📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=mohamedshafid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com/?user=mohamedshafid&theme=tokyonight&hide_border=true" />
+
+<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedshafid&theme=tokyonight&hide_border=true&layout=compact" />
+
+</div>
+
+<div align="center">
+
+💭 A little reminder
+
+"The more I learn, the more I realize how much there is to explore."
+
+Thanks for visiting my profile! Happy Coding! 💻🚀
+
+!Profile Views
+
+</div>
