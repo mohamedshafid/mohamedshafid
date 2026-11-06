@@ -1,118 +1,170 @@
-<div align="center">
 
-Hey, I'm Mohamed Hafid 👋
-Software Engineer | Full-Stack Developer | Tech Enthusiast
+<!-- ==================== HEADER ==================== -->
 
-Curious mind. Continuous learner. Passionate builder.
+<h1 align="center">Hey, I'm Mohamed Hafid 👋</h1>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin) ![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github) ![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)
+<h3 align="center">Software Engineer | Full-Stack Developer | Tech Enthusiast</h3>
 
-</div>
+<p align="center">
+  <i>Curious mind. Continuous learner. Passionate builder.</i>
+</p>
 
-💫 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/mohamedhafid">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/mohamedshafid">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:mohamedhafid825@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-I'm a passionate developer driven by curiosity and a constant desire to learn, experiment, and build.
+---
 
-I enjoy exploring new technologies, understanding what's happening behind the scenes, and digging deeper into the core concepts rather than simply learning how to use a tool.
+<!-- ==================== ABOUT ME ==================== -->
 
-For me, development isn't just about writing code — it's about understanding problems, exploring different approaches, and turning ideas into practical solutions.
+<h2>💫 About Me</h2>
 
-I strongly believe in learning by building. Whenever I discover something new, I love experimenting with it and implementing it in real-world scenarios.
+<p>
+  I'm a passionate developer driven by curiosity and a constant desire to
+  learn, experiment, and build.
+</p>
 
-🔍 Curious about how things work under the hood.
-🧠 Interested in understanding core concepts and engineering fundamentals.
-⚡ Love exploring new technologies and putting them into practice.
-🌱 Always learning, experimenting, and improving.
-🎯 Focused on becoming a well-rounded engineer who understands technology beyond the surface.
+<p>
+  I enjoy exploring new technologies, understanding what's happening behind
+  the scenes, and digging deeper into the core concepts rather than simply
+  learning how to use a tool.
+</p>
 
-<div align="center">
+<p>
+  For me, development isn't just about writing code — it's about understanding
+  problems, exploring different approaches, and turning ideas into practical
+  solutions.
+</p>
 
-Always curious. Always learning. Always building. 🚀
+<p>
+  I strongly believe in <b>learning by building</b>. Whenever I discover
+  something new, I love experimenting with it and implementing it in
+  real-world scenarios.
+</p>
 
-</div>
+<ul>
+  <li>🔍 Curious about how things work under the hood.</li>
+  <li>🧠 Interested in core concepts and engineering fundamentals.</li>
+  <li>⚡ Love exploring new technologies and implementing them.</li>
+  <li>🌱 Always learning, experimenting, and improving.</li>
+  <li>🎯 Focused on becoming a well-rounded software engineer.</li>
+</ul>
 
-🛠️ Tech Stack
-💻 Languages
+<p align="center">
+  <b>Always curious. Always learning. Always building. 🚀</b>
+</p>
 
-<div align="center">
+---
 
-!JavaScript !TypeScript !Python !Java !C !C++
+<!-- ==================== TECH STACK ==================== -->
 
-</div>
+<h2>🛠️ Tech Stack</h2>
 
-🎨 Frontend Development
+<h3>💻 Programming Languages</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp" />
+</p>
 
-!React !Next.js !HTML5 !CSS3 !Tailwind CSS !Bootstrap !Vite !GSAP
+<h3>🎨 Frontend Development</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap,vite" />
+</p>
 
-⚙️ Backend & Database
+<h3>⚙️ Backend & Database</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql,prisma,firebase" />
+</p>
 
-!Node.js !Express.js !MongoDB !PostgreSQL !MySQL !Prisma !Firebase !JWT
+<h3>☁️ Cloud & DevOps</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,nginx,githubactions" />
+</p>
 
-☁️ Cloud & DevOps
+<h3>🔧 Tools & Platforms</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,vscode,idea,notion" />
+</p>
 
-!AWS !Docker !Kubernetes !Jenkins !Linux !Nginx !GitHub Actions
+---
 
-</div>
+<!-- ==================== CURRENTLY EXPLORING ==================== -->
 
-🔧 Tools & Platforms
+<h2>🧭 Currently Exploring</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/System%20Design-Architecture-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Backend-Engineering-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/DevOps-Automation-purple?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-Web%20Security-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/CS-Core%20Fundamentals-yellow?style=flat-square" />
+</p>
 
-!Git !GitHub !Postman !Figma ![VS Code](https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) !IntelliJ IDEA !Notion
+---
 
-</div>
+<!-- ==================== SOCIALS ==================== -->
 
-🧭 Currently Exploring
+<h2>🌐 Connect With Me</h2>
 
-<div align="center">
+<p align="center">
+  <a href="https://instagram.com/mohd_haf1d_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/mohamedhafid">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@thep1ayy3r">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://reddit.com/user/mohameds_hafid">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://x.com/thep1ayy3r">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="mailto:mohamedhafid825@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-Area	Interests
-🏗️ Software Engineering	System Design, Architecture, Scalability
-⚙️ Backend Engineering	Performance, APIs, Database Internals
-☁️ Cloud & DevOps	AWS, Docker, Kubernetes, CI/CD
-🔐 Cybersecurity	Web Security, Networking, OWASP
-🧠 Computer Science	Data Structures, Algorithms, Core Fundamentals
+---
 
-</div>
+<!-- ==================== GITHUB STATS ==================== -->
 
-🌐 Let's Connect
+<h2>📊 GitHub Analytics</h2>
 
-<div align="center">
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=mohamedshafid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mohamedshafid&theme=tokyonight&hide_border=true" />
+</p>
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white) ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedshafid&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
 
-</div>
+---
 
-📊 GitHub Stats
+<!-- ==================== FOOTER ==================== -->
 
-<div align="center">
+<p align="center">
+  <i>"The more I learn, the more I realize how much there is to explore."</i>
+</p>
 
-<img width="49%" src="https://github-readme-stats.shion.dev/api?username=mohamedshafid&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<h3 align="center">Thanks for visiting! Happy Coding 💻🚀</h3>
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=mohamedshafid&theme=tokyonight&hide_border=true" />
-
-<img width="45%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedshafid&theme=tokyonight&hide_border=true&layout=compact" />
-
-</div>
-
-<div align="center">
-
-💭 A little reminder
-
-"The more I learn, the more I realize how much there is to explore."
-
-Thanks for visiting my profile! Happy Coding! 💻🚀
-
-!Profile Views
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedshafid&label=Profile%20Views&color=blueviolet&style=flat-square" />
+</p>
